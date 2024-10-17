@@ -78,7 +78,7 @@ class TaskWidget extends StatelessWidget {
                           showDialog(
                           context: context,
                           builder: (context) {
-                            return const CustomDialog();
+                            return  CustomDialog(existingTask: task,);
                           },
                         );
                         },

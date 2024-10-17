@@ -26,4 +26,20 @@ class Task {
       id: map['id'],
     );
   }
+
+  Task copyWith({
+    int? id,
+    String? name,
+    String? description,
+    String? date,
+    String? time,
+  }) {
+    return Task(
+      name ?? taskName,
+      description ?? taskDescription,
+      date ?? this.date,
+      time ?? this.time,
+      id: id ?? this.id,
+    );
+  }
 }
