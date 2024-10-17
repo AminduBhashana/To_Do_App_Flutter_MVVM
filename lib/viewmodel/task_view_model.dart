@@ -62,6 +62,7 @@ class TaskViewmodel extends ChangeNotifier {
 
   Future<void> loadTasks() async {
     tasks = await taskRepository.getTasks();
+    sortTasks(); 
     notifyListeners();
   }
 
