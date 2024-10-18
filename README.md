@@ -24,13 +24,13 @@ This is a Flutter-based mobile application that allows users to manage their tas
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/task-manager-app.git
+    git clone https://github.com/AminduBhashana/To_Do_App_Flutter_MVVM.git
     ```
 
 2. **Install dependencies**:
 
     ```bash
-    cd task-manager-app
+    cd To_Do_App_Flutter_MVVM
     flutter pub get
     ```
 
