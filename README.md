@@ -58,16 +58,16 @@ The application uses the **sqflite** package to persist data locally. A reposito
 
 <table>
   <tr>
-    <td><img src="ScreenShots/Screenshot_1.png" alt="Screenshot1" width="200"/></td>
-    <td><img src="ScreenShots/Screenshot_2.png" alt="Screenshot2" width="200"/></td>
-    <td><img src="ScreenShots/Screenshot_3.png" alt="Screenshot3" width="200"/></td>
-    <td><img src="ScreenShots/Screenshot_4.png" alt="Screenshot4" width="200"/></td>
+    <td><img src="Screenshots/Screenshot_1.png" alt="Screenshot1" width="200"/></td>
+    <td><img src="Screenshots/Screenshot_2.png" alt="Screenshot2" width="200"/></td>
+    <td><img src="Screenshots/Screenshot_3.png" alt="Screenshot3" width="200"/></td>
+    <td><img src="Screenshots/Screenshot_4.png" alt="Screenshot4" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="ScreenShots/Screenshot_5.png" alt="Screenshot5" width="200"/></td>
-    <td><img src="ScreenShots/Screenshot_6.png" alt="Screenshot6" width="200"/></td>
-    <td><img src="ScreenShots/Screenshot_7.png" alt="Screenshot7" width="200"/></td>
-    <td><img src="ScreenShots/Screenshot_8.png" alt="Screenshot8" width="200"/></td>
+    <td><img src="Screenshots/Screenshot_5.png" alt="Screenshot5" width="200"/></td>
+    <td><img src="Screenshots/Screenshot_6.png" alt="Screenshot6" width="200"/></td>
+    <td><img src="Screenshots/Screenshot_7.png" alt="Screenshot7" width="200"/></td>
+    <td><img src="Screenshots/Screenshot_8.png" alt="Screenshot8" width="200"/></td>
   </tr>
 </table>
 
